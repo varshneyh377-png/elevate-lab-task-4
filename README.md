@@ -82,4 +82,4 @@ These visualizations help understand the classification performance and behavior
 This task provided practical experience in implementing Logistic Regression for breast cancer classification. It helped develop an understanding of binary classification, probability-based predictions, model evaluation, and visualization using Python and Scikit-learn.
 
 ## Author
-AI & ML Internship Participant
+Himanshi Varshney
